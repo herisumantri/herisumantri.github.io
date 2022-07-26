@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Akshar:wght@300&family=Koulen&family=Quicksand:wght@700&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100;1,300;1,400;1,500;1,900&display=swap');
+
+body{
+	font-family: 'Roboto', sans-serif;
+	margin-left: 90px;
+	background-color: #353543;
+	
+}
+.logo h1{
+	font-weight: bold;
+	color: white;
+
+}
+.menu li {
+	list-style-type: none;
+	float: left;
+	padding-right: 20px;
+}	
+.menu li a{
+	text-decoration: none;
+	color: white;
+}
+.menu{
+	position: absolute;
+	margin-top: -65px;
+	margin-left: 600px;
+}
+.menu li a:hover{
+	color: #FFBA19;
+	font-size: 17px;
+}
+.patner{
+	width: 800px;
+	height: 60px;
+	background-color: #575764;
+}
+
+.ilustrasi{
+	color: white;
+	margin-top: 120px;
+	width: 400px;
+}
+.hero{
+	position: absolute;
+	margin-top: -300px;
+	padding-left: 450px;
+}
+.ilustrasi2{
+	color: white;
+	width: 400px;
+	position: absolute;
+	margin-top: -300px;
+	margin-left: 800px;
+}
